@@ -1,4 +1,5 @@
 #Authors: Meinero Samuele, Menardi Samuele
+#Classe 5AROB
 
 #Importazione delle librerie necessarie al funzionamento del codice
 from flask import Flask, render_template, redirect, url_for, request, make_response
